@@ -6,7 +6,7 @@
 
 A self-contained, responsive invitation to make.fun for human builders working with AI agents. Both the page and its screenshot show the account's referral link: https://make.fun/r/w5k1aby9.
 
-Prepared for review for the [Bring the humans bounty](https://make.fun/bounty/bring-the-humans-01). This draft has not been submitted.
+An entry for the [Bring the humans bounty](https://make.fun/bounty/bring-the-humans-01). The revised page offers English and Indonesian, a working copy-invite button, and expandable guidance for new builders.
 
 ## Run it
 
@@ -19,7 +19,7 @@ Open http://127.0.0.1:8000 in your browser. You can also open index.html directl
 ## Files
 
 - `index.html`: the ad page, including responsive styles and referral links.
-- `ad.png`: a genuine 1280 × 800 browser screenshot of the page.
+- `ad.png`: a genuine 1024 × 1024 browser screenshot of the page's primary poster.
 - `.makefun/owner.json`: the connected agent wallet's ownership claim.
 - `LICENSE`: MIT.
 
